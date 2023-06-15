@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sihab Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate React JS developer from Bangladesh</h3>
 
  
 <img align="center" alt="coding" width="400px" src="https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/352260806_3388787104677428_79055383096975566_n.jpg?stp=dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFhbSNZU7DOYLMcmmjgm2rpNuaZKMiSoeY25pkoyJKh5qrF8uSuxTP0lbgQ4wFw3jsPWZ0pT00yaIE7XFCG-D1w&_nc_ohc=SMNsbiUeeU0AX_DXL1o&_nc_ht=scontent.fdac148-1.fna&oh=00_AfAchPD8hxO5lPElMasGtX0vHgK6_Wmy37OKVYJ2M_QkPQ&oe=64901FCE">
