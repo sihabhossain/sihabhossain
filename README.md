@@ -6,7 +6,7 @@
 <img align="left" alt="coding" width="400px" src="https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/352260806_3388787104677428_79055383096975566_n.jpg?stp=dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFhbSNZU7DOYLMcmmjgm2rpNuaZKMiSoeY25pkoyJKh5qrF8uSuxTP0lbgQ4wFw3jsPWZ0pT00yaIE7XFCG-D1w&_nc_ohc=SMNsbiUeeU0AX_DXL1o&_nc_ht=scontent.fdac148-1.fna&oh=00_AfAchPD8hxO5lPElMasGtX0vHgK6_Wmy37OKVYJ2M_QkPQ&oe=64901FCE">
   </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sihabhossain" alt="sihabhossain" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/dev_sihab" target="blank"><img src="https://img.shields.io/twitter/follow/dev_sihab?logo=twitter&style=for-the-badge" alt="dev_sihab" /></a> </p>
 
