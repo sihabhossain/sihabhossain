@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Sihab Hossain
-#### I am ReactJS Developer
+#### I am a Frontend Developer
 
 
 
-Skills:  REACT / JS / HTML / CSS / Tailwind / ExpressJS / MongoDB / Firebase
+Skills:  React / Next.js / TypeScript / Tailwind / Redux / ExpressJS / Prisma / MongoDB / PostgreSQL / Mongoose / Firebase 
 
-- 🔭 I’m currently working on React 
-- 🌱 I’m currently learning MERN Stack 
+- 🔭 I’m currently working on Frontend 
+- 🌱 I’m currently learning Full Stack 
 - 💬 Ask me about React 
 - 📫 How to reach me: sihabhossain380@gmail.com 
-- 😄 Pronouns: him 
+- 😄 Pronouns: he/him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sihabhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sihab-hossain-a46981226//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dev_sihab)  
