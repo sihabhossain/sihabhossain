@@ -14,7 +14,7 @@ Skills:  REACT / JS / HTML / CSS / Tailwind / ExpressJS / MongoDB / Firebase
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sihabhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sihab-hossain-a46981226//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dev_sihab)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sihabhossain)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihabhossain)](https://github.com/anuraghazra/github-readme-stats)
 
