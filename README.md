@@ -53,7 +53,25 @@ I am a **MERN Stack Developer** passionate about building full-stack web applica
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sihabhossain&show_icons=true&theme=radical" alt="Sihab's GitHub Stats" />
+</p>
+
+---
+
+### ⌛ WakaTime Stats
+
+<!-- WakaTime integration -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sihabhossain&theme=radical" alt="Sihab's WakaTime Stats" />
+</p>
+
+---
+
 ### 📫 How to Reach Me
 - Email: sihabhossain380@gmail.com
 - LinkedIn: [Sihab Hossain](https://www.linkedin.com/in/sihab-hossain-a46981226/)
-
