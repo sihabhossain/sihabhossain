@@ -63,15 +63,6 @@ I am a **MERN Stack Developer** passionate about building full-stack web applica
 
 ---
 
-### ⌛ WakaTime Stats
-
-<!-- WakaTime integration -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sihabhossain&theme=radical" alt="Sihab's WakaTime Stats" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 - Email: sihabhossain380@gmail.com
 - LinkedIn: [Sihab Hossain](https://www.linkedin.com/in/sihab-hossain-a46981226/)
