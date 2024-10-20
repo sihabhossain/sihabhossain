@@ -1,14 +1,11 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Sihab Hossain👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+ <a href="https://www.linkedin.com/in/sihab-hossain-a46981226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:sihabhossain380@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
 
@@ -58,5 +55,5 @@ I am a **MERN Stack Developer** passionate about building full-stack web applica
 
 ### 📫 How to Reach Me
 - Email: sihabhossain380@gmail.com
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sihab-hossain-a46981226/))
+- LinkedIn: [Sihab Hossain](https://www.linkedin.com/in/sihab-hossain-a46981226/)
 
